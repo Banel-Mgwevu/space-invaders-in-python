@@ -1,6 +1,6 @@
 # Space Invaders Game 🚀👾
 
-Created by: Banele Mgwevu
+
 
 This is a simple Space Invaders game developed using Pygame.
 
