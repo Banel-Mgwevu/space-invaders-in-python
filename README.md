@@ -1,53 +1,42 @@
-# 🚀 Space Invaders Game
+# Space Invaders Game 🚀👾
 
-This is a simple Space Invaders game created using Pygame. 🎮
+Created by: Banele Mgwevu
 
-## Table of Contents
+This is a simple Space Invaders game developed using Pygame.
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Controls](#controls)
-- [Dependencies](#dependencies)
-- [License](#license)
+## How to Run
 
-## Introduction
+### Prerequisites
+- Python 3 installed
 
-👾 Provide a brief introduction to the game, its purpose, and what it aims to achieve.
+### Running the Game
+1. Clone the repository:
+    ```
+    git clone https://github.com/Banel-Mgwevu/space-invaders-in-python.git
+    ```
 
-## Features
+2. Navigate to the project directory:
+    ```
+    cd space-invaders-in-python
+    ```
 
-🌟 List the key features of the game.
+3. Install Pygame (if not installed):
+    ```
+    pip install pygame
+    ```
 
-- Player control
-- Enemy movement
-- Bullet firing mechanism
+4. Run the game:
+    ```
+    python main.py
+    ```
 
-## Installation
+## Controls 🎮
+- Use the arrow keys to move the player spaceship.
+- Press the SPACEBAR to shoot bullets.
 
-🔧 Explain how to install and set up the game on a local machine.
+## Gameplay 🕹️
+- Destroy all enemy spaceships to win.
+- Avoid collision with enemy spaceships to stay alive.
 
-## How to Play
 
-🎯 Describe the gameplay and any specific instructions required to play the game.
-
-## Controls
-
-🕹️ Explain the controls to navigate or interact with the game.
-
-- Use arrow keys to move the player
-- Press the spacebar to fire bullets
-
-## Dependencies
-
-📦 List any external libraries or dependencies required to run the game.
-
-- Python 3
-- Pygame
-
-## License
-
-📜 Include information about the project's license.
-
-This project is licensed under the [MIT License](LICENSE).
+Feel free to contribute or report issues if found. Enjoy playing! 😊🚀
